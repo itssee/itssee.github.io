@@ -5,13 +5,13 @@ pygments: true
 paginate: 8
 permalink: /:title
 
-title: linzhi
-production_url : http://linzhi.github.io
-me: https://github.com/linzhi
+title: itssee
+production_url : http://itssee.github.io
+me: https://github.com/itssee
 
 
 author :
-  name : linzhi
-  github : linzhi
+  name : itssee
+  github : itssee
   
 feed: /atom.xml

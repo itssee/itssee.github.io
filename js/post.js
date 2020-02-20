@@ -34,7 +34,7 @@ $(document).ready(function(){
         var href = $(this).attr('href');
         if(href){
             if(href.indexOf('#') == 0){
-            }else if ( href.indexOf('/') == 0 || href.toLowerCase().indexOf('linzhi.github.io')>-1 ){
+            }else if ( href.indexOf('/') == 0 || href.toLowerCase().indexOf('itssee.github.io')>-1 ){
             }else if ($(element).has('img').length){
             }else{
                 $(this).attr('target','_blank');
